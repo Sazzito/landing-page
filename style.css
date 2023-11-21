@@ -1,7 +1,8 @@
 body {
     background: linear-gradient(to bottom, #003355, #04536C);
     color: #ADACA7;
-    }
+    padding-top: 60px;
+        }
     .header{
     display: flex;
     justify-content: space-between;
@@ -16,4 +17,15 @@ body {
     flex-direction: row-reverse;
     gap: 16px;
     list-style: none;
+    }
+    .introduction {
+        text-align: center;
+    }
+    img {
+        min-height: 350px;
+        width: 450px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        flex-wrap: wrap;
     }
