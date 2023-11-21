@@ -1,0 +1,19 @@
+body {
+    background: linear-gradient(#003355, #04536C);
+    color: #ADACA7;
+    }
+    .header{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: #FF5200;
+    position: fixed;
+    top: 0;
+    left: 0;
+    }
+    ul{
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 16px;
+    list-style: none;
+    }
