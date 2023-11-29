@@ -45,11 +45,12 @@ body {
     flex-direction: row;
     justify-content: space-evenly;
     align-items: center;
-.introduction {
-        text-align: center;
-    }
-    img {
-        min-height: 350px;
+}
+.hero-text {
+    text-align: center;
+}
+img {
+    min-height: 350px;
         width: 450px;
         display: flex;
         flex-direction: row;
