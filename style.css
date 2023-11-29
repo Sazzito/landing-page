@@ -49,6 +49,13 @@ body {
 .hero-text {
     text-align: center;
 }
+.hero-button {
+    font-size: 32px;
+    background-color: #FF5200;
+    color: #003355;
+    border-radius: 5px;
+    padding: 5px;
+}
 img {
     min-height: 350px;
         width: 450px;
